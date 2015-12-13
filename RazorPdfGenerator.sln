@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPdfGenerator", "RazorPdfGenerator\RazorPdfGenerator.csproj", "{C4D94954-01DD-42E2-B9B6-B09F7AA99160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPdfGenerator.Test", "RazorPdfGenerator.Test\RazorPdfGenerator.Test.csproj", "{D99184E6-9513-4B43-82C3-60A7CFB390DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D94954-01DD-42E2-B9B6-B09F7AA99160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D94954-01DD-42E2-B9B6-B09F7AA99160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D94954-01DD-42E2-B9B6-B09F7AA99160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D94954-01DD-42E2-B9B6-B09F7AA99160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99184E6-9513-4B43-82C3-60A7CFB390DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99184E6-9513-4B43-82C3-60A7CFB390DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99184E6-9513-4B43-82C3-60A7CFB390DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99184E6-9513-4B43-82C3-60A7CFB390DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
